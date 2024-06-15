@@ -197,5 +197,17 @@
       <priv>user-shell-access</priv>
       <priv>page-all</priv>
     </group>
+    <user>
+      <name>root</name>
+      <descr>System Administrator</descr>
+      <scope>system</scope>
+      <groupname>admins</groupname>
+      <password>letmein123</password>
+      <uid>0</uid>
+      <expires/>
+      <authorizedkeys>c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFEbU1kNW8rZjhzNE5CVEZaUDVNV1BlZ2Qxd1UzTE5lQTZ4OURkMDVdFh1Kzl5dUdhdlNyalhWQWViNDRaR0VxdzBQMm1XdVJNdXdod1ozbWVhQlBUUytTV2FoZFJrb2hDTnZcytnZ1BpMGlrdGMrMmw5alpHWjBMOHdQUlIzWW5ZZnpyVDZ0aExyTk1JZUka2lPcUVCVndKZGxHcXYwSXgzllyb0lydjlob2JqeV0UUFVazZWWlVhQjUwalJNeXlXY2VUVkRTa2l4djRWQlIyZGJkVTVLSkI5Z3FFUjcwbFl2QldpVCtNdzFGVmZoOUJ3dFNIM0tyR2R4a01TeVRJN3FkWURQRDR0OHE1NmpQWjQ1NTRpODdRSzRJaFp2ZFJVMGRsa0xpbzBMbGZqblRJVklnMDZTelhvWlp2SGFXUTZTd2htWWxOZHRtd1MnlQUHggc3R1YmJpbUBb2JlMDI4Nw==</authorizedkeys>
+      <ipsecpsk/>
+      <otp_seed/>
+    </user>
   </system>
 </opnsense>
