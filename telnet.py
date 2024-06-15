@@ -4,8 +4,8 @@ import getpass
 import telnetlib
 
 host = "my-remote-server.example.net"
-user = 'root'
-password = 'letmein123'
+user = "root"
+password = "letmein123"
 
 tn = telnetlib.Telnet(host)
 
