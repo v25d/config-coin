@@ -2,7 +2,7 @@ bind_host: 0.0.0.0
 bind_port: 8080
 users:
 - name: admin
-  password: TQ8zs9Q/Pk20tdm7t
+  password: lokomotiv
 http_proxy: ""
 language: de
 rlimit_nofile: 0
