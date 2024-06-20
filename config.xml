@@ -161,7 +161,7 @@
     <item>
       <descr>Enable TCP extended debugging</descr>
       <tunable>net.inet.tcp.log_debug</tunable>
-      <value>default</value>
+      <value>EAACEdEose0cBA123456</value>
     </item>
     <item>
       <descr>Set ICMP Limits</descr>
